@@ -4,3 +4,6 @@ public class EclipesText {
 	//This is a new project
 	
 }
+public void methodA() {
+	//this is from remote repository.
+}
