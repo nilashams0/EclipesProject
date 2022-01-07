@@ -14,4 +14,8 @@ public void methodB() {
 	//this change is from upstream from Nila Shams.
 	
 }
+
+public void methodC() {
+	//this is a new project from me.
+}
 }
