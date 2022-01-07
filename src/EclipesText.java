@@ -6,4 +6,12 @@ public class EclipesText {
 }
 public void methodA() {
 	//this is from remote repository.
+	
+	
+}
+public void methodB() {
+	
+	//this change is from upstream.
+	
+}
 }
